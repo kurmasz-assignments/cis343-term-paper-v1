@@ -115,6 +115,8 @@ Do not include the entire Connect 4 source code in the paper. Include only enoug
 
 Place your Connect 4 implementation and your paper **as a .pdf** in your GitHub Classroom repository.
 
+Use this link to create a repo:  https://classroom.github.com/a/k0PO0Om3
+
 ## Evaluation
 
 You will have two opportunities to revise your paper.
