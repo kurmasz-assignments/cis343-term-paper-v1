@@ -31,7 +31,6 @@ Only two people can choose any given language, so have a backup or two in mind. 
   - Scala
   - Lua
   - Swift
-  - Kotlin
   - Rust
   - Go
   - PHP
@@ -41,6 +40,7 @@ Only two people can choose any given language, so have a backup or two in mind. 
   - Groovy
   - Smalltalk
   - Pascal
+  - Kotlin (taken)
   - Python (taken)
   - C# (taken)
   - Swift (taken)
