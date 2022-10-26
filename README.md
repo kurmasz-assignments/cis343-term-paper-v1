@@ -129,23 +129,27 @@ In order for me to read your entire paper and provide feedback on the content,
      - Technical: Your paper should demonstrates control of language with few lapses in diction, syntax, and grammar.
      - Errors: Errors that are present do must not interfere with meaning or understanding. (Errors also must be fixed in the following submission.)
 
-The outline above contains 14 topics (counting OO as one item).  Each item will be marked with E, M, P, or X.  Your sample code will also receive an E, M, P, or X.  The criteria for each letter grade is as follows:
+The outline above contains 19 topics (counting OO as one item).  Each item will be marked with E, M, P, or X.  Your sample code will also receive an E, M, P, or X.  The criteria for each letter grade is as follows:
 
 - D:
   - Sample Code: P
-  - Categories: At least 9 Ms (or better); at least 12 Ps (or better)
+  - Overall Evaluation: M
+  - Categories: At least 13 Ms (or better); at least 16 Ps (or better)
 
 - C:
   - Sample Code: M
-  - Categories: At least 10 Ms or better; at least 13 Ps (or better)
+  - Overall Evaluation: M
+  - Categories: At least 15 Ms or better; at least 17 Ps (or better)
 
 - B:
   - Sample Code: M
-  - Categories: At least 11 Ms or better; All 14 categories P or better
+  - Overall Evaluation: M
+  - Categories: At least 16 Ms or better; All 19 categories P or better
 
 - A:
   - Sample Code: M
-  - Categories: At least 13 Ms or better; All 14 categories P or better
+  - Overall Evaluation: M
+  - Categories: At least 18 Ms or better; All 19 categories P or better
   - Two revisions, maximum
 
 I suggest you have a complete, polished draft ready to submit by ***Wednesday, 30 November***.
