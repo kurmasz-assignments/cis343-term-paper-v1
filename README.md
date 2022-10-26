@@ -22,7 +22,6 @@ learning a new language.  Languages that are off limits include:
 
 Only two people can choose any given language, so have a backup or two in mind.  Some suggestions include
 
-  - Python
   - C#
   - ML 
   - Haskell
@@ -42,6 +41,7 @@ Only two people can choose any given language, so have a backup or two in mind. 
   - Groovy
   - Smalltalk
   - Pascal
+    - Python (taken)
 
 One suggestion is to choose a language you want to learn anyway but have not
 gotten around to yet -- this can give you the motivation! Or, some people like
