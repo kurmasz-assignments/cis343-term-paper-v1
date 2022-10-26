@@ -95,12 +95,12 @@ The final paper should include the following topics:
     the language.)
 
 ### Overall evaluation 
-   - Provide an overall evaluation of the language.
-      - Discuss in what ways it is readable, writable, reliable, and orthogonal.
-      - Discuss in what ways its readability, writability, reliability, and orthogonality fall short.
-      - Discuss tradeoffs made by the language.
-      - In what ways was this language a good choice for implementing Connect 4?
-      - In what ways was this language a bad choice for implementing Connect 4?
+Provide an overall evaluation of the language.
+  - Discuss in what ways it is readable, writable, reliable, and orthogonal.
+  - Discuss in what ways its readability, writability, reliability, and orthogonality fall short.
+  - Discuss tradeoffs made by the language.
+  - In what ways was this language a good choice for implementing Connect 4?
+  - In what ways was this language a bad choice for implementing Connect 4?
 
 
 ## Hints
