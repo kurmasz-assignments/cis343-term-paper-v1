@@ -165,8 +165,8 @@ It could take up to 72 hours to receive feedback from a submission.  Plan accord
 Your final letter grade in the course will be at most one letter grade higher than your 
 letter grade on this term paper.
 
- ## Acknowledgements
+## Acknowledgements
 
- Thanks to Prof. Bowman and Prof. Woodring for providing the original version of this assignment.
+Thanks to Prof. Bowman and Prof. Woodring for providing the original version of this assignment.
 
- Thanks to Sharona Krinsky for providing suggestions on the mastery grading rubric.
+Thanks to Sharona Krinsky for providing suggestions on the mastery grading rubric.
