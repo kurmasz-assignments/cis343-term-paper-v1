@@ -51,7 +51,7 @@ The language **must** be approved by me before you begin.
 Send me an email (1) specifying the language you want to investigate, and (2) 
 affirming that you have not done any work in this language before.
 Be sure that I respond before you start writing. Please email me by 
-**Thursday, 10 November**. Only two people can choose any given language, so have a backup or two in mind.
+**Thursday, 16 March**. Only two people can choose any given language, so have a backup or two in mind.
 
 ## Required Sections
 
@@ -67,7 +67,7 @@ The final paper should include the following topics:
 
   - Note the data types the language provides
     - Clearly identify which are part of the language, and which are provided as part of the language's standard library.
-    - What difference (if any) is there a difference between "primitive" data types and user-defined data types?
+    - What difference (if any) is there a difference between "primitive" data types and user-defined data types and how they are used? (For example Java doesn't allow you to use primitive types with generics.)
   - Describe the type checking system used
     - Static or dynamic?
     - Explicit or implicit?
@@ -76,6 +76,7 @@ The final paper should include the following topics:
 ### Control Abstractions
 
   - Describes language expressions
+    - (focus on the unique / unusual)
   - Operators and precedence rules
     - (focus on the unique / unusual)
   - Selection constructs ("if" statements, switch statements, etc.)
@@ -98,7 +99,7 @@ The final paper should include the following topics:
     - Inheritance
     - Polymorphism
     - Interfaces / abstract classes
-  - Any other less common paradigms supported?
+    - Any other less common paradigms supported?
 
 ### Highlight the Distinctive Features
   - What features make this language stand out from other languages? (Are there any that are especially unique/rare?)
@@ -137,7 +138,7 @@ Use this link to create a repo:  https://classroom.github.com/a/k0PO0Om3
 
 ## Evaluation
 
-You will have two opportunities to revise your paper.
+You will have up to two opportunities to revise your paper.
 
 In order for me to read your entire paper and provide feedback on the content, 
   1. Your paper must be substantially complete. (For example, don't submit a rough-draft-quality paper to see if you get enough Ms for a grade you are willing to live with.)
@@ -151,7 +152,7 @@ The outline above contains 24 topics.  Each item will be marked with E, M, P, or
 - D:
   - Sample Code: P
   - Overall Evaluation: M
-  - Categories: At least 16 Ms (or better); at least 21ex Ps (or better)
+  - Categories: At least 16 Ms (or better); at least 21 Ps (or better)
 
 - C:
   - Sample Code: M
@@ -169,12 +170,12 @@ The outline above contains 24 topics.  Each item will be marked with E, M, P, or
   - Categories: At least 22 Ms or better; All 24 categories P or better
   - Two revisions, maximum
 
-I suggest you have a complete, polished draft ready to submit by ***Wednesday, 30 November***.
-Your final submission is due by ***Monday, 12 December, at <u>8:00 a.m.</u>***.
+I suggest you have a complete, polished draft ready to submit by ***Wednesday, 12 April***.
+Your final submission is due by ***Monday, 24 April, at <u>8:00 a.m.</u>***.
 It could take up to 72 hours to receive feedback from a submission.  Plan accordingly. 
-(For example, if you submit a revision on Friday, 9 December, I may not have time to 
+(For example, if you submit a revision on Friday, 21 April, I may not have time to 
  provide feedback by the final deadline.  Similarly, if you don't make your first complete 
- submission by 5 December, there may not be enough time to make two sets of revisions. 
+ submission by 12 April, there may not be enough time to make two sets of revisions. 
 
 Your final letter grade in the course will be at most one letter grade higher than your 
 letter grade on this term paper.
