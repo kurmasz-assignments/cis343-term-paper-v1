@@ -1,4 +1,3 @@
-
 # Programming Languages Term Paper
 
 We have learned this semester about the processes of creating and evaluating
@@ -7,21 +6,20 @@ write a term paper on a particular language.  This paper will be 5-7 pages long
 (not including title pages, contents, references, appendices, etc.) and must
 have a minimum of 5 sources.
 
-You are not allowed to choose any language we have studied in class or as a
-part of the Computer Science curriculum at GVSU.  You also may not choose a
+You are not allowed to choose any language you have studied in this class or 
+any other course. You also may not choose a
 language you already know; this project is all about cementing the process of
 learning a new language.  Languages that are off limits include:
 
   - Java
   - JavaScript
+  - Typescript
   - C/C++
   - Ruby
   - Scheme (any dialect)
   - Markup languages (no HTML, XML, etc.).
-  - Any language that is designed to be an "anti-language" (Malbolge, Whitespace, etc.)
-
+  
 Only two people can choose any given language, so have a backup or two in mind.  Some suggestions include
-
 
   - ML 
   - Haskell
@@ -36,15 +34,13 @@ Only two people can choose any given language, so have a backup or two in mind. 
   - PHP
   - Julia
   - Ada
-  - TypeScript
   - Groovy
   - Smalltalk
   - Pascal
-  - Kotlin (taken)
-  - Python (taken)
-  - C# (taken)
-  - Swift (taken)
-
+  - Kotlin
+  - Python
+  - C#
+  - Swift
 
 One suggestion is to choose a language you want to learn anyway but have not
 gotten around to yet -- this can give you the motivation! Or, some people like
@@ -67,44 +63,63 @@ The final paper should include the following topics:
   - Note the programming paradigm(s) supported
   - Address the domains in which it is widely used
 
-  ### Data Abstractions
+### Data Abstractions
 
   - Note the data types the language provides
+    - Clearly identify which are part of the language, and which are provided as part of the language's standard library.
+    - What difference (if any) is there a difference between "primitive" data types and user-defined data types?
   - Describe the type checking system used
     - Static or dynamic?
     - Explicit or implicit?
-    - Coercion occurs?
+    - When is coercion allowed? When is coercion prohibited?
 
 ### Control Abstractions
 
   - Describes language expressions
   - Operators and precedence rules
-  - Selection constructs
+    - (focus on the unique / unusual)
+  - Selection constructs ("if" statements, switch statements, etc.)
   - Iteration
   - Functions and parameter passing techniques
+    - Are parameters positional, named, or both?
+    - Pass by value?  
+    - Pass by reference?
+    - Other?
   - Scope rules
   - Packages/Modules/Namespace capabilities
   - Exception handling
 
-### Support for Object Oriented Programming (may not apply)
-  - What syntactic units used for defining classes?
-  - Support for interfaces?
-  - Data protection mechanisms
+### Paradigms
+  - First Class Functions
+    - How are anonymous functions created / invoked
+    - Any limitations?
+  - Object Oriented Programming
+    - Data protection
+    - Inheritance
+    - Polymorphism
+    - Interfaces / abstract classes
+  - Any other less common paradigms supported?
+
+### Highlight the Distinctive Features
+  - What features make this language stand out from other languages? (Are there any that are especially unique/rare?)
+  - Are there any features that let you identify the language at a glance?
+  - What features make this language especially well-suited for its most common use?
+  - Which features do you wish were present in your favorite or most commonly used language?
 
 ### Sample Program
-
   - Implement Connect 4 in your language.  (I am willing to consider an alternative program, if 
     there is a good reason that the alternate program represents a better way to learn/demonstrate 
     the language.)
 
 ### Overall evaluation 
+
 Provide an overall evaluation of the language.
+
   - Discuss in what ways it is readable, writable, reliable, and orthogonal.
   - Discuss in what ways its readability, writability, reliability, and orthogonality fall short.
   - Discuss tradeoffs made by the language.
   - In what ways was this language a good choice for implementing Connect 4?
   - In what ways was this language a bad choice for implementing Connect 4?
-
 
 ## Hints
 
@@ -125,34 +140,33 @@ Use this link to create a repo:  https://classroom.github.com/a/k0PO0Om3
 You will have two opportunities to revise your paper.
 
 In order for me to read your entire paper and provide feedback on the content, 
-  1. Your paper must be substantially complete. (For example, don't submit a rough-draft-quality paper to see if you get enough Ms for 
-     a grade you are willing to live with.)
+  1. Your paper must be substantially complete. (For example, don't submit a rough-draft-quality paper to see if you get enough Ms for a grade you are willing to live with.)
   2. Your writing must meet general college-level standards.  For example:
      - Clarity: Sentence structures should be easy to follow, writing should flow from sentence to sentence and paragraph to paragraph.
      - Technical: Your paper should demonstrates control of language with few lapses in diction, syntax, and grammar.
      - Errors: Errors that are present do must not interfere with meaning or understanding. (Errors also must be fixed in the following submission.)
 
-The outline above contains 19 topics (counting OO as one item).  Each item will be marked with E, M, P, or X.  Your sample code will also receive an E, M, P, or X.  The criteria for each letter grade is as follows:
+The outline above contains 24 topics.  Each item will be marked with E, M, P, or X.  Your sample code will also receive an E, M, P, or X.  The criteria for each letter grade is as follows:
 
 - D:
   - Sample Code: P
   - Overall Evaluation: M
-  - Categories: At least 13 Ms (or better); at least 16 Ps (or better)
+  - Categories: At least 16 Ms (or better); at least 21ex Ps (or better)
 
 - C:
   - Sample Code: M
   - Overall Evaluation: M
-  - Categories: At least 15 Ms or better; at least 17 Ps (or better)
+  - Categories: At least 18 Ms or better; at least 22 Ps (or better)
 
 - B:
   - Sample Code: M
   - Overall Evaluation: M
-  - Categories: At least 16 Ms or better; All 19 categories P or better
+  - Categories: At least 20 Ms or better; at least 23 categories P or better
 
 - A:
   - Sample Code: M
   - Overall Evaluation: M
-  - Categories: At least 18 Ms or better; All 19 categories P or better
+  - Categories: At least 22 Ms or better; All 24 categories P or better
   - Two revisions, maximum
 
 I suggest you have a complete, polished draft ready to submit by ***Wednesday, 30 November***.
