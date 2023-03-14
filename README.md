@@ -39,7 +39,7 @@ Only two people can choose any given language, so have a backup or two in mind. 
   - Pascal
   - Kotlin
   - Python
-  - C#
+  - ~~C#~~
   - Swift
 
 One suggestion is to choose a language you want to learn anyway but have not
